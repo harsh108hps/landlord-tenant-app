@@ -7,7 +7,15 @@ A modern, responsive, and full-stack communication platform that enables seamles
 Name: Harsh Pratap Singh
 Student Code: fsd25_05006 
 Email: harshpratapingh39900@gmail.com
+
 ### Live link demo:
+https://landlord-tenant-app-seven.vercel.app/
+
+### Github Repo Link:
+https://github.com/harsh108hps/landlord-tenant-app
+
+### Live YT Video About Project Link:
+
 
 ## 🚀 Features
 
