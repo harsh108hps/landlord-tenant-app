@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "dashboard": "Dashboard",
+  "maintenance": "Maintenance",
+  "payments": "Payments",
+  "chat": "Chat",
+  "logout": "Logout",
+  "profile": "Profile",
+  "issueTracker": "Issue Tracker",
+  "login": "Login",
+  "signup": "Signup"
+}
